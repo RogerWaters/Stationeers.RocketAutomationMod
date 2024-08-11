@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketAutomationMod", "RocketAutomationMod.csproj", "{E90DE81E-BCAA-4146-8B3A-5CC311A19FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90DE81E-BCAA-4146-8B3A-5CC311A19FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90DE81E-BCAA-4146-8B3A-5CC311A19FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90DE81E-BCAA-4146-8B3A-5CC311A19FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90DE81E-BCAA-4146-8B3A-5CC311A19FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB9EAB0-A1E4-4BC5-ACF1-888F78DF538D}
+	EndGlobalSection
+EndGlobal
